@@ -4,4 +4,4 @@ My solutions to [Project Euler](https://projecteuler.net/).
 
 | Language      | Problems Solved |
 | ------------- |:---------------:|
-| Ruby          | 3               |
+| Ruby          | 4               |
